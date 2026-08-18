@@ -1,1 +1,2 @@
-i created my first branch just now, making changes for merge conflict
+i created my first branch just now, making changes for merge conflict , made changes with notepad
+
